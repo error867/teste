@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{
+    
+background-color: #2E097C;
+display: flex;   
+position: relative;
+width: 768px;
+height: 71px;
+justify-content: space-between;
+
+
+padding: 30px;
+font-size: 30px;
+
+}
+.cabeçalho img{
+    justify-content:center;
+    display: inline-block;
+    
+    
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+    height: 20%;
+
+}
+
+.cabeçalho-item{
+    display: inline-block;
+    padding: 30px;
+
+}2
